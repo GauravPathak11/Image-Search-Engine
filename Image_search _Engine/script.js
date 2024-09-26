@@ -3,7 +3,7 @@ let btn = document.querySelector(".btn button")
 let images = document.querySelector(".images")
 let load = document.querySelector("#load")
 
-const accessKey = "TGBwYopWkEgvEV756X7FZJ4VGQDCyAC5SkGVIP9fsYM"
+const accessKey = 
 let page = 1
 let keyword = ""
 function download(imgurl){
