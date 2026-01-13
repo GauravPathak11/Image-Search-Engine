@@ -12,7 +12,7 @@ body{
 .search-area{
     width: 100%;
     height: 400px;
-    background-image:url("bg.jpg");
+    background-image:url("/bg.jpg");
     background-size: 100% 100%;
     position: relative;
 }
@@ -174,4 +174,5 @@ body{
     .btn button img{
         width:20px;
     }
+
 }
